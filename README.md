@@ -1,0 +1,1 @@
+API para o memoria de lixo
